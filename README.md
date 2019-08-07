@@ -52,7 +52,7 @@ int main()
 go build -o l.so -buildmode=c-shared l.go
 ```
 
-4. 
+4. Compile the c code with the Go shared library
 
 ```shell
 gcc -o l l.c ./l.so
