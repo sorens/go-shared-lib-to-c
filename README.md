@@ -1,5 +1,12 @@
 ## Go Shared Library To C
 
+Information gleaned from
+- https://github.com/vladimirvivien/go-cshared-examples
+- http://geekwentfreak.com/posts/golang/cgo_pass_receive_string_c/
+- http://blog.ralch.com/tutorial/golang-sharing-libraries/
+- https://dave.cheney.net/tag/cgo
+- https://golang.org/cmd/cgo/
+
 1. Create Go code that does something
 
 ```go
